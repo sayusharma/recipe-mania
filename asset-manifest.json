@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/recipe-mania/static/css/main.98727455.css",
+    "main.js": "/recipe-mania/static/js/main.0ecb0610.js",
+    "index.html": "/recipe-mania/index.html",
+    "main.98727455.css.map": "/recipe-mania/static/css/main.98727455.css.map",
+    "main.0ecb0610.js.map": "/recipe-mania/static/js/main.0ecb0610.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98727455.css",
+    "static/js/main.0ecb0610.js"
+  ]
+}
